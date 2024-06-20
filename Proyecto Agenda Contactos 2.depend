@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1700233449 source:c:\users\luzla\onedrive\escritorio\tpe ayda\proyecto agenda contactos\agenda.cpp
+	<iostream>
+	<cassert>
+	"Agenda.h"
+
+1700226456 c:\users\luzla\onedrive\escritorio\tpe ayda\proyecto agenda contactos\agenda.h
+	"Arbol_AVL.h"
+
+1700226508 c:\users\luzla\onedrive\escritorio\tpe ayda\proyecto agenda contactos\arbol_avl.h
+	"Contacto.h"
+
+1700223527 c:\users\luzla\onedrive\escritorio\tpe ayda\proyecto agenda contactos\contacto.h
+	<iostream>
+	<string>
+	"Lista.h"
+
+1698979648 c:\users\luzla\onedrive\escritorio\tpe ayda\proyecto agenda contactos\lista.h
+
+1700227721 source:c:\users\luzla\onedrive\escritorio\tpe ayda\proyecto agenda contactos\contacto.cpp
+	"Contacto.h"
+	<string>
+
+1700223281 source:c:\users\luzla\onedrive\escritorio\tpe ayda\proyecto agenda contactos\lista.cpp
+	"Lista.h"
+	<iostream>
+	<cassert>
+
+1700226628 source:c:\users\luzla\onedrive\escritorio\tpe ayda\proyecto agenda contactos\main.cpp
+	"Agenda.h"
+	<cstdlib>
+
+1700227410 source:c:\users\luzla\onedrive\escritorio\tpe ayda\proyecto agenda contactos\arbol_avl.cpp
+	<iostream>
+	"Arbol_AVL.h"
+	<string>
+
+1700242462 source:c:\users\labiii-vdi14\downloads\proyecto agenda contactos 6\proyecto agenda contactos\agenda.cpp
+	<iostream>
+	<cassert>
+	"Agenda.h"
+
+1700237824 c:\users\labiii-vdi14\downloads\proyecto agenda contactos 6\proyecto agenda contactos\agenda.h
+	"Arbol_AVL.h"
+
+1700234132 c:\users\labiii-vdi14\downloads\proyecto agenda contactos 6\proyecto agenda contactos\arbol_avl.h
+	"Contacto.h"
+
+1700240648 c:\users\labiii-vdi14\downloads\proyecto agenda contactos 6\proyecto agenda contactos\contacto.h
+	<iostream>
+	<string>
+	"Lista.h"
+
+1700234132 c:\users\labiii-vdi14\downloads\proyecto agenda contactos 6\proyecto agenda contactos\lista.h
+
+1700241597 source:c:\users\labiii-vdi14\downloads\proyecto agenda contactos 6\proyecto agenda contactos\arbol_avl.cpp
+	<iostream>
+	"Arbol_AVL.h"
+	<string>
+
+1700240699 source:c:\users\labiii-vdi14\downloads\proyecto agenda contactos 6\proyecto agenda contactos\contacto.cpp
+	"Contacto.h"
+	<string>
+
+1700238469 source:c:\users\labiii-vdi14\downloads\proyecto agenda contactos 6\proyecto agenda contactos\lista.cpp
+	"Lista.h"
+	<iostream>
+	<cassert>
+
+1700242462 source:c:\users\labiii-vdi14\downloads\proyecto agenda contactos 6\proyecto agenda contactos\main.cpp
+	"Contacto.h"
+	"Agenda.h"
+	"Arbol_AVL.h"
+	<cstdlib>
+
+1700237332 c:\users\labiii-vdi14\downloads\proyecto agenda contactos 6\proyecto agenda contactos\contacto.cpp
+	"Contacto.h"
+	<string>
+
+1700266197 source:c:\users\luzla\downloads\proyecto agenda contactos 7\proyecto agenda contactos 6\proyecto agenda contactos\agenda.cpp
+	<iostream>
+	<cassert>
+	"Agenda.h"
+
+1700266212 c:\users\luzla\downloads\proyecto agenda contactos 7\proyecto agenda contactos 6\proyecto agenda contactos\agenda.h
+	"Arbol_AVL.h"
+
+1700267553 c:\users\luzla\downloads\proyecto agenda contactos 7\proyecto agenda contactos 6\proyecto agenda contactos\arbol_avl.h
+	"Contacto.h"
+
+1700267197 c:\users\luzla\downloads\proyecto agenda contactos 7\proyecto agenda contactos 6\proyecto agenda contactos\contacto.h
+	<iostream>
+	<string>
+	"Lista.h"
+
+1700268318 c:\users\luzla\downloads\proyecto agenda contactos 7\proyecto agenda contactos 6\proyecto agenda contactos\lista.h
+
+1700268098 source:c:\users\luzla\downloads\proyecto agenda contactos 7\proyecto agenda contactos 6\proyecto agenda contactos\arbol_avl.cpp
+	<iostream>
+	"Arbol_AVL.h"
+	<string>
+
+1700266291 source:c:\users\luzla\downloads\proyecto agenda contactos 7\proyecto agenda contactos 6\proyecto agenda contactos\contacto.cpp
+	"Contacto.h"
+	<string>
+
+1700266436 source:c:\users\luzla\downloads\proyecto agenda contactos 7\proyecto agenda contactos 6\proyecto agenda contactos\lista.cpp
+	"Lista.h"
+	<iostream>
+	<cassert>
+
+1700266731 source:c:\users\luzla\downloads\proyecto agenda contactos 7\proyecto agenda contactos 6\proyecto agenda contactos\main.cpp
+	"Contacto.h"
+	"Agenda.h"
+	"Arbol_AVL.h"
+	<cstdlib>
+
